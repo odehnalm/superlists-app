@@ -4,3 +4,4 @@ __pycache__
 *.pyc
 .idea
 lists/tests.py__jb_old__
+./static
